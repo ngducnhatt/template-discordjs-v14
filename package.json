@@ -1,0 +1,27 @@
+{
+  "name": "template-discordjs-v14",
+  "version": "1.0.0",
+  "description": "This is a simple template to create discord bot using discordjs v14",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ngnducnhat/template-discordjs-v14.git"
+  },
+  "keywords": [
+    "discordjs",
+    "v14"
+  ],
+  "author": "ngnducnhat",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ngnducnhat/template-discordjs-v14/issues"
+  },
+  "homepage": "https://github.com/ngnducnhat/template-discordjs-v14#readme",
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "discord.js": "^14.7.1"
+  }
+}
