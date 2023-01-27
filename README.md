@@ -47,6 +47,7 @@ Give me 1 star if you like that. Thank you all. Have a nice day.
 - 3). Change bot token in `config.json` file.
 - 4). Run `install.bat` or use `npm i` in terminal
 
+https://user-images.githubusercontent.com/69428695/215223482-70965b1f-2a55-4586-9d66-25a99f3dd897.mp4
 
 
 # Support and contact
